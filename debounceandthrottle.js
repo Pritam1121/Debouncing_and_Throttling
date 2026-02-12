@@ -83,3 +83,4 @@ const serchWithDebounce = debounce(serach, 1000);
     serchWithDebounce('Javascript')
 
     // Important => API call only one time
+    output is Serching for the Javascript
